@@ -24,9 +24,9 @@
 
 ### Part 1: Introduction to Python Programming
 - [Part 1.1 - Introduction to Python Programming](https://github.com/oxbbar/course-data-scientist/blob/main/part_1/p1-1-introduction-to-python-programming.ipynb)
-- Part 1.2 - Basic Operators and Data Structures in Python
-- Part 1.3 - Python Functions and Jupyter Notebook
-- Part 1.4 - Intermediate Python for Data Science
+- [Part 1.2 - Basic Operators and Data Structures in Python](https://github.com/oxbbar/course-data-scientist/blob/main/part_1/p1-2-basic-operators-and-data-structures-in-python.ipynb)
+- [Part 1.3 - Python Functions and Jupyter Notebook](https://github.com/oxbbar/course-data-scientist/blob/main/part_1/p1-3-python-functions-and-jupyter-notebook.ipynb)
+- [Part 1.4 - Intermediate Python for Data Science](https://github.com/oxbbar/course-data-scientist/blob/main/part_1/p1-4-intermediate-python-for-data-science.ipynb)
 
 ### Part 2: Data Analysis and Visualization
 
