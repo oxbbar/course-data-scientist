@@ -9,13 +9,28 @@
 
 ## Skills
 
-- 
-- 
-- 
-- 
-- 
+- Python
+- Jupyter Notebook
+- pandas
+- NumPy
+- Data Cleaning
+- Data Analysis
+- Data Visualisation
+- SQL
+- APIs and Web Scraping
+- Statistics
+- Conditional Probability
+- Git
 
 ## Projects
+
+- [Analysing Android and iOS app store data](https://github.com/oxbbar/course-projects/blob/main/analysing-mobile-app-data/analysing-mobile-app-data.ipynb)
+    - Analysed Google Play Store and iOS App Store application data to identify trends and provide insight on categories and genres likely to draw high traffic with little saturation.
+    - Python; pandas; Data cleaning and analysis
+
+- [Exploring and analysing Hacker News forum categories and hourly traffic data](https://github.com/oxbbar/course-projects/blob/main/exploring-hacker-news-posts/exploring-hacker-news-posts.ipynb)
+    - Analysed categorical posts and identified hourly trends in traffic to inform users of efficient practices.
+    - Python; pandas; Data cleaning and analysis
 
 - []()
     - 
@@ -30,9 +45,9 @@
 
 ### Part 2: Data Analysis and Visualization
 
-- Part 2.1 - Introduction to Pandas and NumPy for Data Analysis
-- Part 2.2 - Introduction to Data Visualization in Python
-- Part 2.3 - Telling Stories Using Data Visualization and Information Design
+- [Part 2.1 - Introduction to Pandas and NumPy for Data Analysis](https://github.com/oxbbar/course-data-scientist/blob/main/part_2/p2-1-introduction-to-pandas-and-numpy-for-data-analysis.ipynb)
+- [Part 2.2 - Introduction to Data Visualization in Python](https://github.com/oxbbar/course-data-scientist/blob/main/part_2/p2-2-introduction-to-data-visualization-in-python.ipynb)
+- [Part 2.3 - Telling Stories Using Data Visualization and Information Design](https://github.com/oxbbar/course-data-scientist/blob/main/part_2/p2-3-telling-stories-using-data-visualization-and-information-design.ipynb)
 
 ### Part 3: Data Cleaning
 
@@ -99,20 +114,20 @@ https://www.dataquest.io/path/data-scientist/
 
 ### Part 1: Python Introduction [4 courses]
 
-1. Introduction to Data Analysis in Excel [3h]
+1. Introduction to Data Analysis in Excel
 - Write computer programs using Python
 - Save values using variables
 - Process numerical data and text data
 - Create lists using Python
 
-2. Basic Operators and Data Structures in Python [5h]
+2. Basic Operators and Data Structures in Python
 - Use for loops to repeat processes and conduct data analysis
 - Implement if, else, and elif statements in programming logic
 - Employ logical and comparison operators in Python
 - Develop and update Python dictionaries for data manipulation
 - Construct frequency tables using dictionaries for data analytics
 
-3. Python Functions and Jupyter Notebook [5h]
+3. Python Functions and Jupyter Notebook
 - Write Python functions
 - ebug functions
 - Define function arguments
@@ -120,26 +135,26 @@ https://www.dataquest.io/path/data-scientist/
 - Employ Jupyter notebook
 - Build a portfolio project
 
-4. Intermediate Python for Data Science [8h]
+4. Intermediate Python for Data Science
 - Clean and analyze text data
 - Define object-oriented programming in Python
 - Process dates and times
 
 ### Part 2: Data Analysis and Visualization [3 courses]
 
-1. Introduction to Pandas and NumPy for Data Analysis [13h]
+1. Introduction to Pandas and NumPy for Data Analysis
 - Improve your workflow using vectorized operations
 - Select data by value using Boolean indexing
 - Analyze data using pandas and NumPy
 
-2. Introduction to Data Visualization in Python [8h]
+2. Introduction to Data Visualization in Python
 - Visualize time series data with line plots
 - Define correlations and visualize them with scatter plots
 - Visualize frequency distributions with bar plots and histograms
 - Improve your exploratory data visualization workflow using pandas
 - Visualize multiple variables using Seaborn's relational plots
 
-3. Telling Stories Using Data Visualization and Information Design [5h]
+3. Telling Stories Using Data Visualization and Information Design
 - Create graphs using information design principles
 - Create narrative data visualizations using Matplotlib
 - Create visual patterns using Gestalt principles
